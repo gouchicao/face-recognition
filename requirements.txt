@@ -1,0 +1,6 @@
+flask
+flask_restful
+requests
+pillow
+face_recognition
+
